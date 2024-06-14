@@ -7,3 +7,4 @@ Welcome to the AI Project Repository! This repository contains various AI-relate
 ![Screenshot 2024-05-09 110259](https://github.com/pushpakumari98/AI-Artificial-Intelligence--projects/assets/153999245/aa43f390-821a-4a41-a3f9-fb2622582b9e)
 ![Screenshot 2024-05-20 180556](https://github.com/pushpakumari98/AI-Artificial-Intelligence--projects/assets/153999245/382bc134-1ee5-4fdf-809b-c9accae1d7e0)
 ![Screenshot 2024-05-26 203957](https://github.com/pushpakumari98/AI-Artificial-Intelligence--projects/assets/153999245/a6ceb5d8-0c2c-425a-aa4b-dfcdd069aa12)
+![Screenshot 2024-06-14 164339](https://github.com/pushpakumari98/AI-Artificial-Intelligence--projects/assets/153999245/b1aec59f-e63d-4cc5-bb7d-82f6bd8894d2)
